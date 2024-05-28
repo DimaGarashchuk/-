@@ -1,0 +1,13 @@
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.csproj.AssemblyReference.cache
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.csproj.SuggestedBindingRedirects.cache
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.Form1.resources
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.Form2.resources
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.Properties.Resources.resources
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.csproj.GenerateResource.cache
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.csproj.CoreCompileInputs.cache
+D:\InternetStore\InternetStore\bin\Debug\InternetStore.exe.config
+D:\InternetStore\InternetStore\bin\Debug\InternetStore.exe
+D:\InternetStore\InternetStore\bin\Debug\InternetStore.pdb
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.exe
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.pdb
+D:\InternetStore\InternetStore\obj\Debug\InternetStore.Form3.resources
